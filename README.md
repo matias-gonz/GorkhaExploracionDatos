@@ -6,6 +6,6 @@ https://colab.research.google.com/drive/1nmgSn-xTnRPWm18-wFIb6QorrHGAdKj0?usp=sh
 
 # Grupo: KiwiData
 Integrantes:
-*  - González Matías Ignacio (104913)
-*  - Vázquez Lareu Román (100815)
-*  - Figueroa Matias (92498)
+*  González Matías Ignacio (104913)
+*  Vázquez Lareu Román (100815)
+*  Figueroa Matias (92498)
